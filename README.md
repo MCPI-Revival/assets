@@ -5,5 +5,5 @@
 - ``normal-160.png``: Normal Logo Downscaled To 160x160 For The Wiki
 - ``discord.png``: Normal Logo Modifed For Discord Channel Icon
 - ``discord-512.png``: Discord Logo Upscaled To 512x512
-- ``mcpil-r.png``: MCPIL-R Logo
-- ``mcpil-r-512.png``: MCPIL-R Logo Upscaled To 512x402
+- ``mcpil.png``: MCPIL Logo
+- ``mcpil-512.png``: MCPIL Logo Upscaled To 512x402
