@@ -3,9 +3,9 @@
 - ``normal.png``: Normal Logo
 - ``normal-512.png``: Normal Logo Upscaled To 512x569
 - ``normal-160.png``: Normal Logo Downscaled To 160x160 For The Wiki
-- ``normal.svg``: Normal Logo converted to SVG format
+- ``normal.svg``: Normal Logo Converted To SVG Format
 - ``discord.png``: Normal Logo Modifed For Discord Channel Icon
 - ``discord-512.png``: Discord Logo Upscaled To 512x512
 - ``mcpil.png``: MCPIL Logo
 - ``mcpil-512.png``: MCPIL Logo Upscaled To 512x402
-- ``mcpil.svg``: MCPIL Logo converted to SVG format
+- ``mcpil.svg``: MCPIL Logo Converted To SVG Format
