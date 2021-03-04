@@ -9,3 +9,5 @@
 - ``mcpil.png``: MCPIL Logo
 - ``mcpil-512.png``: MCPIL Logo Upscaled To 512x402
 - ``mcpil.svg``: MCPIL Logo Converted To SVG Format
+- ``mcpirevival-banner.png``: Banner with MCPI Revival logo
+- ``mcpil-banner.png``: Banner with MCPIL logo
